@@ -260,7 +260,9 @@ knowledge_base = {
         break
         
 ## OUTPUT
-WhatsApp Image 2026-11-04 at 10 51 17 AM
+
+<img width="1600" height="645" alt="image" src="https://github.com/user-attachments/assets/f5cf986d-2673-4fda-9b13-d7b9694a29e2" />
+
 
 ## RESULT
 Thus, a Custom GPT chatbot for Saveetha Engineering College was successfully designed, configured with knowledge files and instructions, tested, and published using OpenAI's GPT Builder.In conclusion, building a Custom GPT shows how modern generative AI tools let anyone — even without programming knowledge — create a specialised, organisation-branded chatbot in a few simple steps. By combining clear instructions, focused knowledge files, and the right capabilities, Saveetha Engineering College can offer students and visitors instant, accurate answers to their questions, saving time for both the institution and its users.
