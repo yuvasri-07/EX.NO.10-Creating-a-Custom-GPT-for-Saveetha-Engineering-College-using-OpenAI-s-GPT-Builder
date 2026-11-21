@@ -45,7 +45,7 @@ Use the Preview panel on the right side of the Builder to chat with the GPT befo
 Step 10: Publishing and Sharing
 Click the “Create” (or “Save”) button in the top-right corner of the Builder. Choose who can access the GPT: • Only me – for personal testing • Anyone with the link – to share with students and faculty of the department • GPT Store (Public) – to make the GPT visible to all ChatGPT users
 
-# code
+## CODE
 
 import re
 import random
